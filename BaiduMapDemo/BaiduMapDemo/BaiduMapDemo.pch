@@ -1,0 +1,15 @@
+//
+//  BaiduMapDemo.pch
+//  BaiduMapDemo
+//
+//  Created by 宗炳林 on 2017/12/28.
+//  Copyright © 2017年 宗炳林. All rights reserved.
+//
+
+#ifndef BaiduMapDemo_pch
+#define BaiduMapDemo_pch
+
+#define SCREEN_WIDTH [[UIScreen mainScreen] bounds].size.width
+#define SCREEN_HEIGHT [[UIScreen mainScreen] bounds].size.height
+
+#endif /* BaiduMapDemo_pch */
